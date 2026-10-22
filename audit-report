@@ -1,0 +1,7 @@
+cd /workspace/Contract-Audit-Report
+npm init -y
+
+npm install
+
+npm install --save-dev typescript @types/node
+/workspace/Token-Audit-For-Report
